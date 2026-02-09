@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "status": "multitext",
+    "education": "multitext",
+    "industry": "multitext",
+    "contacted": "checkbox",
+    "position": "multitext",
+    "applied": "checkbox",
+    "kun søknad": "checkbox"
+  }
+}

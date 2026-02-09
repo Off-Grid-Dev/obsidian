@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.inFolder("data/businesses")
+    - file.ext != "base"
+properties:
+  note.contact person:
+    displayName: contact
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - location
+      - status
+      - contacted
+      - applied
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: contacted
+        direction: ASC
+      - property: contact person
+        direction: DESC
+      - property: industry
+        direction: ASC
+      - property: website
+        direction: ASC
+    columnSize:
+      file.name: 149
+      note.location: 147
+      note.status: 177
+      note.contacted: 216
+  - type: cards
+    name: cards
+    order:
+      - file.name
+      - status
+      - contacted
+    imageAspectRatio: 1
+    cardSize: 250

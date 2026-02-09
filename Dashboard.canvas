@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{
+			"id":"2b9f149e88e5b914",
+			"type":"text",
+			"text":"Businesses Reached (Goal = 15)\n```dataviewjs\nconst directory = '\"data/businesses\"';\nconst goal = 15;\nconst businessCount = dv.pages(directory).length;\n\nconst apbString = \"```apb\\n\" + \n                 `Total Businesses: ${businessCount}/${goal}\\n` + \n                 \"```\";\n\ndv.paragraph(apbString);\n```\n```dataviewjs\nconst directory = '\"data/businesses\"';\nconst goal = 15;\nconst businessCount = dv.pages(directory).length;\nconst contacted = dv.pages(directory).where(p => p.contacted);\n\nconst apbString = \"```apb\\n\" + \n                 `Businesses Contacted: ${contacted.length}/${businessCount}\\n` + \n                 \"```\";\n\ndv.paragraph(apbString);\n```\n```dataviewjs\nconst directory = '\"data/businesses\"';\nconst businessCount = dv.pages(directory).length;\nconst applied = dv.pages(directory).where(p => p.applied);\n\nconst apbString = \"```apb\\n\" + \n                 `Businesses Applied to: ${applied.length}/${businessCount}\\n` + \n                 \"```\";\n\ndv.paragraph(apbString);\n```",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-860,
+			"y":-300,
+			"width":820,
+			"height":340
+		},
+		{
+			"id":"1fb4ee1664603d80",
+			"type":"text",
+			"text":"**Prospect Pipeline**\n\n\n```dataviewjs\nconst targetStatuses = [\"research\", \"contact\", \"interview\", \"hired\", \"dead\"];\n\n// 1. Improved filtering to handle lists vs strings\nconst pages = dv.pages()\n    .where(p => {\n        if (!p.status) return false;\n        // Convert single strings to an array so we can treat everything the same\n        const s = Array.isArray(p.status) ? p.status : [p.status];\n        // Check if any element in the file's status matches our target list\n        return s.some(status => targetStatuses.includes(status));\n    })\n    // 2. Flatten if a file has multiple statuses, otherwise just use status\n    .flatMap(p => {\n        const s = Array.isArray(p.status) ? p.status : [p.status];\n        return s.filter(status => targetStatuses.includes(status));\n    })\n    .groupBy(p => p) // Group by the status value itself\n    .sort(g => g.key);\n\n// 3. Prepare data\nconst labels = pages.map(g => g.key).values;\nconst counts = pages.map(g => g.rows.length).values;\n\nconst chartData = {\n    type: 'pie',\n    data: {\n        labels: labels,\n        datasets: [{\n            label: 'Status Distribution',\n            data: counts,\n            backgroundColor: ['#36a2eb', '#ff6384', '#ffce56', '#4bc0c0', '#9966ff']\n        }]\n    }\n};\n\nwindow.renderChart(chartData, this.container);\n\n```",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":"center"
+			},
+			"x":0,
+			"y":-660,
+			"width":620,
+			"height":700
+		},
+		{"id":"a5aa2455905f05cc","type":"file","file":"data/businesses/businesses.base","x":-860,"y":-660,"width":820,"height":320,"color":"5"}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,0 +1,66 @@
+filters:
+  and:
+    - file.inFolder("contacts")
+    - file.ext != "base"
+views:
+  - type: cards
+    name: contact cards
+    order:
+      - file.name
+      - company
+      - position
+      - email
+      - mobile
+      - contacted
+      - kun søknad
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 163
+      note.position: 148
+      note.mobile: 334
+    cardSize: 260
+  - type: cards
+    name: Lerøy contacts
+    filters:
+      and:
+        - file.hasTag("leroy")
+    order:
+      - file.name
+      - email
+      - mobile
+      - position
+      - kun søknad
+  - type: cards
+    name: NavTor contacts
+    filters:
+      and:
+        - file.hasTag("navtor")
+    order:
+      - file.name
+      - position
+      - mobile
+      - email
+      - kun søknad
+  - type: cards
+    name: Spenning contacts
+    filters:
+      and:
+        - file.hasTag("spenning")
+    order:
+      - file.name
+      - position
+      - email
+      - mobile
+      - contacted
+  - type: cards
+    name: OFEL contacts
+    order:
+      - file.name
+      - company
+      - position
+      - email
+      - mobile
+      - contacted
+    imageAspectRatio: 1.2
