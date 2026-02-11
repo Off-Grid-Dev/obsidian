@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0feafe744799a046",
+        "id": "a6f2f864870a0527",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae86376295edbbb",
+            "id": "2182828cfc52e908",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -120,
-                  "y": -310,
-                  "zoom": -0.8826153566177812
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +76,7 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 25.03128911138923,
+        "dimension": 25.03128911138924,
         "children": [
           {
             "id": "1c77af18a2ad9113",
@@ -218,8 +211,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -251,17 +244,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ae86376295edbbb",
+  "active": "b7af8af9beb4b8cc",
   "lastOpenFiles": [
+    "Untitled",
+    "calendar/journal/2026-02-07.md",
     "Dashboard.canvas",
+    "calendar/weekly/week-07-2026.md",
     "contacts/contacts.base",
-    "data/education/OFEL/OFEL.md",
     "data/businesses/businesses.base",
+    "data/businesses/SES Elektro AS/SES Elektro AS.md",
+    "data/education/OFEL/OFEL.md",
+    "contacts/files/John-Henrik Waage.md",
     "data/businesses/NorDan AS/NorDan AS.md",
     "data/businesses/NorDan AS",
     "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
     "data/businesses/Moi Elektro AS",
-    "data/businesses/SES Elektro AS/SES Elektro AS.md",
     "data/businesses/MG Elektro AS/MG Elektro AS.md",
     "data/businesses/SES Elektro AS",
     "Untitled.md",
@@ -271,7 +268,6 @@
     "data/businesses/El-Eksperten",
     "data/businesses/Aker/Aker Solutions.md",
     "contacts/files/Ingebjørg Garborg.md",
-    "calendar/weekly/week-07-2026.md",
     "week.md",
     "+/brainstorm/random_thoughts_monday.md",
     "contacts/files/Helge Hovtun.md",
@@ -280,14 +276,12 @@
     "data/education/rogfk",
     "data/education",
     "contacts/Untitled.md",
-    "contacts/files/John-Henrik Waage.md",
     "contacts/files/Øystein Hjelm.md",
     "contacts/files/Silje Wahlund Lie.md",
     "contacts/files/Helge Tønnessen.md",
     "contacts/files/Tor Friestad.md",
     "contacts/files/Tore F. Henriksen.md",
     "contacts/files/Kjetil Larsen.md",
-    "contacts/files/NavTor.md",
-    "calendar/journal/2026-02-09.md"
+    "contacts/files/NavTor.md"
   ]
 }
