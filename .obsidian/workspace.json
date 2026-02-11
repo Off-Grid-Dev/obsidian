@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -99.04442906574397,
-                  "y": -329.6458477508649,
-                  "zoom": -0.49395930176556835
+                  "x": -120,
+                  "y": -310,
+                  "zoom": -0.8826153566177812
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -83,7 +83,7 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 25.03128911138924,
+        "dimension": 25.03128911138923,
         "children": [
           {
             "id": "1c77af18a2ad9113",
@@ -218,8 +218,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -237,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +253,10 @@
   },
   "active": "4ae86376295edbbb",
   "lastOpenFiles": [
+    "Dashboard.canvas",
     "contacts/contacts.base",
     "data/education/OFEL/OFEL.md",
     "data/businesses/businesses.base",
-    "Dashboard.canvas",
     "data/businesses/NorDan AS/NorDan AS.md",
     "data/businesses/NorDan AS",
     "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
