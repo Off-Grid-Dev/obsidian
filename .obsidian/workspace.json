@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -120,
-                  "y": -310,
-                  "zoom": -0.8679850843459425
+                  "x": -99.04442906574397,
+                  "y": -329.6458477508649,
+                  "zoom": -0.49395930176556835
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -36,7 +36,7 @@
       {
         "id": "df68baa7a4f0102d",
         "type": "tabs",
-        "dimension": 60.826032540675854,
+        "dimension": 74.96871088861077,
         "children": [
           {
             "id": "b7af8af9beb4b8cc",
@@ -83,7 +83,7 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 39.17396745932415,
+        "dimension": 25.03128911138924,
         "children": [
           {
             "id": "1c77af18a2ad9113",
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "46939028296156c0",
@@ -221,13 +221,24 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "e36c768d312897ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,9 +255,11 @@
   "active": "4ae86376295edbbb",
   "lastOpenFiles": [
     "contacts/contacts.base",
+    "data/education/OFEL/OFEL.md",
+    "data/businesses/businesses.base",
+    "Dashboard.canvas",
     "data/businesses/NorDan AS/NorDan AS.md",
     "data/businesses/NorDan AS",
-    "data/businesses/businesses.base",
     "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
     "data/businesses/Moi Elektro AS",
     "data/businesses/SES Elektro AS/SES Elektro AS.md",
@@ -259,8 +272,6 @@
     "data/businesses/El-Eksperten",
     "data/businesses/Aker/Aker Solutions.md",
     "contacts/files/Ingebjørg Garborg.md",
-    "data/education/OFEL/OFEL.md",
-    "Dashboard.canvas",
     "calendar/weekly/week-07-2026.md",
     "week.md",
     "+/brainstorm/random_thoughts_monday.md",
