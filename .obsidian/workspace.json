@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d7b58168e68f1212",
+        "id": "6b5c2228ce5e7cd2",
         "type": "tabs",
         "children": [
           {
-            "id": "cf727498a8229782",
+            "id": "ca814a4d41e90d57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "data/education/OFEL/OFEL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,7 +33,7 @@
       {
         "id": "df68baa7a4f0102d",
         "type": "tabs",
-        "dimension": 70.83854818523155,
+        "dimension": 74.96871088861077,
         "children": [
           {
             "id": "b7af8af9beb4b8cc",
@@ -80,10 +80,23 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 29.161451814768462,
+        "dimension": 25.03128911138924,
         "children": [
           {
             "id": "1c77af18a2ad9113",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "contacts/contacts.base",
+                "viewName": "contact cards"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "contacts"
+            }
+          },
+          {
+            "id": "cf727498a8229782",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -92,11 +105,12 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "46939028296156c0",
@@ -204,14 +218,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "e36c768d312897ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,46 +244,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7af8af9beb4b8cc",
+  "active": "ca814a4d41e90d57",
   "lastOpenFiles": [
-    "contacts/files/Helge Hovtun.md",
+    "conflict-files-obsidian-git.md",
+    "data/businesses/NavTor/NavTor.md",
+    "data/businesses/NorDan AS/NorDan AS.md",
+    "data/businesses/El-Eksperten/El-Eksperten AS.md",
+    "calendar/weekly/week-07-2026.md",
+    "calendar/journal/2026-02-07.md",
+    "Untitled",
+    "Dashboard.canvas",
     "contacts/contacts.base",
-    "data/businesses/Aker/Aker Solutions.md",
+    "data/businesses/businesses.base",
+    "data/businesses/SES Elektro AS/SES Elektro AS.md",
     "data/education/OFEL/OFEL.md",
+    "contacts/files/John-Henrik Waage.md",
+    "data/businesses/NorDan AS",
+    "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
+    "data/businesses/Moi Elektro AS",
+    "data/businesses/MG Elektro AS/MG Elektro AS.md",
+    "data/businesses/SES Elektro AS",
+    "Untitled.md",
+    "Untitled 1.md",
+    "data/businesses/MG Elektro AS",
+    "data/businesses/El-Eksperten",
+    "data/businesses/Aker/Aker Solutions.md",
+    "contacts/files/Ingebjørg Garborg.md",
+    "week.md",
+    "+/brainstorm/random_thoughts_monday.md",
+    "contacts/files/Helge Hovtun.md",
     "data/education/rogfk/kurs.md",
     "data/education/OFEL",
     "data/education/rogfk",
-    "data/education",
-    "+/brainstorm/random_thoughts_monday.md",
-    "data/utdanning",
     "contacts/Untitled.md",
-    "contacts/files/John-Henrik Waage.md",
     "contacts/files/Øystein Hjelm.md",
-    "contacts/files/Ingebjørg Garborg.md",
     "contacts/files/Silje Wahlund Lie.md",
     "contacts/files/Helge Tønnessen.md",
     "contacts/files/Tor Friestad.md",
     "contacts/files/Tore F. Henriksen.md",
-    "contacts/files/Kjetil Larsen.md",
-    "calendar/weekly/week-07-2026.md",
-    "week.md",
-    "contacts/files/NavTor.md",
-    "calendar/journal/2026-02-09.md",
-    "+/brainstorm",
-    "calendar/journal/2026-02-08.md",
-    "+/ideas.md",
-    "+",
-    "calendar/journal/2026-02-07.md",
-    "calendar/weekly/2026-08-00.md",
-    "calendar/journal/fredag - 06.33..md",
-    "calendar/weekly/2026-W07-00.md",
-    "calendar/weekly",
-    "Dashboard.canvas",
-    "data/businesses/businesses.base",
-    "data/businesses/Lerøy/Lerøy.md",
-    "data/businesses/Aker"
+    "contacts/files/Kjetil Larsen.md"
   ]
 }
