@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "58afbdd625cbeefa",
+    "type": "split",
+    "children": [
+      {
+        "id": "39922e45206045c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "823c31bd92a16f70",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -567.3427438736317,
+                  "y": -316.78377542371106,
+                  "zoom": -0.31920970696682277
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8df57ca8b6b93140",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c15bae464344c88c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "dbbe0ffd81bd086e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0b0cac276c12f7cb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "27268f8ac74026da",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "47c10742d573d7cd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0fa2baf8982f85bd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb0ea47ad4eb5166",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7e1720a35ce1e27b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "af7db3338a710d5b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "46c12c6cc638e005",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "8b2fba7584acba71",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "823c31bd92a16f70",
+  "lastOpenFiles": [
+    "data/education/rogfk/kurs.md",
+    "data/education/OFEL/OFEL.md",
+    "data/businesses/businesses.base",
+    "data/businesses/Spenning AS/Spenning AS.md",
+    "data/businesses/SES Elektro AS/SES Elektro AS.md",
+    "data/businesses/NorDan AS/NorDan AS.md",
+    "data/businesses/NavTor/NavTor.md",
+    "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
+    "data/businesses/MG Elektro AS/MG Elektro AS.md",
+    "data/businesses/Lerøy/Lerøy.md",
+    "data/businesses/El-Eksperten/El-Eksperten AS.md",
+    "data/businesses/Aker/Aker Solutions.md",
+    "contacts/files/Øystein Hjelm.md",
+    "contacts/files/Tore F. Henriksen.md",
+    "contacts/files/Tor Friestad.md",
+    "contacts/files/Silje Wahlund Lie.md",
+    "contacts/files/NavTor.md",
+    "contacts/files/Lerøy.md",
+    "contacts/files/Kjetil Larsen.md",
+    "contacts/files/John-Henrik Waage.md",
+    "contacts/files/Ingebjørg Garborg.md",
+    "contacts/files/Helge Tønnessen.md",
+    "contacts/files/Helge Hovtun.md",
+    "contacts/files/Andreas Egeli.md",
+    "contacts/contacts.base",
+    "calendar/weekly/week-07-2026.md",
+    "calendar/journal/2026-02-09.md",
+    "calendar/journal/2026-02-07.md",
+    "Dashboard.canvas",
+    "data/education/rogfk",
+    "data/education/OFEL",
+    "data/businesses/Spenning AS",
+    "data/businesses/SES Elektro AS",
+    "data/businesses/NorDan AS",
+    "data/businesses/NavTor",
+    "data/businesses/Moi Elektro AS",
+    "data/businesses/MG Elektro AS"
+  ]
+}
