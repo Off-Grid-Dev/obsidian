@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbc3931c8c95e73",
+        "id": "0feafe744799a046",
         "type": "tabs",
         "children": [
           {
-            "id": "624f21943ae5f60e",
+            "id": "4ae86376295edbbb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": -310,
+                  "zoom": -0.8826153566177812
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
         ]
@@ -211,12 +218,22 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "e36c768d312897ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -224,54 +241,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dda0994674ca2821",
+  "active": "4ae86376295edbbb",
   "lastOpenFiles": [
-    "README.md.md",
-    "Untitled 1.md",
-    "data/education/OFEL/OFEL.md",
-    "week.md",
-    "conflict-files-obsidian-git.md",
-    "data/businesses/NavTor/NavTor.md",
-    "data/businesses/NorDan AS/NorDan AS.md",
-    "data/businesses/El-Eksperten/El-Eksperten AS.md",
-    "calendar/weekly/week-07-2026.md",
-    "calendar/journal/2026-02-07.md",
-    "Untitled",
     "Dashboard.canvas",
     "contacts/contacts.base",
+    "data/education/OFEL/OFEL.md",
     "data/businesses/businesses.base",
-    "data/businesses/SES Elektro AS/SES Elektro AS.md",
-    "contacts/files/John-Henrik Waage.md",
+    "data/businesses/NorDan AS/NorDan AS.md",
     "data/businesses/NorDan AS",
     "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
     "data/businesses/Moi Elektro AS",
+    "data/businesses/SES Elektro AS/SES Elektro AS.md",
     "data/businesses/MG Elektro AS/MG Elektro AS.md",
     "data/businesses/SES Elektro AS",
+    "Untitled.md",
+    "Untitled 1.md",
     "data/businesses/MG Elektro AS",
+    "data/businesses/El-Eksperten/El-Eksperten AS.md",
     "data/businesses/El-Eksperten",
     "data/businesses/Aker/Aker Solutions.md",
     "contacts/files/Ingebjørg Garborg.md",
+    "calendar/weekly/week-07-2026.md",
+    "week.md",
     "+/brainstorm/random_thoughts_monday.md",
     "contacts/files/Helge Hovtun.md",
     "data/education/rogfk/kurs.md",
     "data/education/OFEL",
     "data/education/rogfk",
+    "data/education",
     "contacts/Untitled.md",
+    "contacts/files/John-Henrik Waage.md",
     "contacts/files/Øystein Hjelm.md",
     "contacts/files/Silje Wahlund Lie.md",
     "contacts/files/Helge Tønnessen.md",
     "contacts/files/Tor Friestad.md",
     "contacts/files/Tore F. Henriksen.md",
-    "contacts/files/Kjetil Larsen.md"
+    "contacts/files/Kjetil Larsen.md",
+    "contacts/files/NavTor.md",
+    "calendar/journal/2026-02-09.md"
   ]
 }

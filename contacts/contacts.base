@@ -56,6 +56,9 @@ views:
       - contacted
   - type: cards
     name: OFEL contacts
+    filters:
+      and:
+        - company == "OFEL"
     groupBy:
       property: position
       direction: ASC

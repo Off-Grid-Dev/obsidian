@@ -1,4 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "useTab": false,
+  "openBehavior": "file:Dashboard.canvas",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "+"
 }

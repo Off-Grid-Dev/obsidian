@@ -27,5 +27,3 @@ Siden jeg bytter karriere i voksen alder og har målet siktet inn mot **automasj
 
 
 ![[contacts.base]]
-
-![[contacts.base]]
