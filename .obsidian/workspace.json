@@ -11,17 +11,14 @@
             "id": "4ae86376295edbbb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -120,
-                  "y": -310,
-                  "zoom": -0.8826153566177812
-                }
+                "file": "+/første utkast brev til bedrift.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Dashboard"
+              "icon": "lucide-file",
+              "title": "første utkast brev til bedrift"
             }
           }
         ]
@@ -36,7 +33,7 @@
       {
         "id": "df68baa7a4f0102d",
         "type": "tabs",
-        "dimension": 74.96871088861077,
+        "dimension": 57.07133917396746,
         "children": [
           {
             "id": "b7af8af9beb4b8cc",
@@ -83,7 +80,7 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 25.03128911138923,
+        "dimension": 42.92866082603254,
         "children": [
           {
             "id": "1c77af18a2ad9113",
@@ -113,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 388.5
   },
   "right": {
     "id": "46939028296156c0",
@@ -122,6 +119,7 @@
       {
         "id": "c94c261ae5e38d7b",
         "type": "tabs",
+        "dimension": 58.55106888361045,
         "children": [
           {
             "id": "60d4a6f7f0e0cb0a",
@@ -129,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "+/første utkast brev til bedrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks for første utkast brev til bedrift"
             }
           },
           {
@@ -148,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/progress graph.md",
+                "file": "contacts/files/Helge Tønnessen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from progress graph"
+              "title": "Outgoing links from Helge Tønnessen"
             }
           },
           {
@@ -191,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "contacts/files/Helge Tønnessen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of Helge Tønnessen"
             }
           },
           {
@@ -218,8 +216,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -234,6 +232,23 @@
           }
         ],
         "currentTab": 7
+      },
+      {
+        "id": "8cd136cc1e04a20c",
+        "type": "tabs",
+        "dimension": 41.44893111638955,
+        "children": [
+          {
+            "id": "bf9c4cf6ff52f778",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -251,11 +266,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ae86376295edbbb",
+  "active": "e36c768d312897ae",
   "lastOpenFiles": [
     "Dashboard.canvas",
-    "contacts/contacts.base",
+    "+/første utkast brev til bedrift.md",
     "data/education/OFEL/OFEL.md",
+    "contacts/files/Tore F. Henriksen.md",
+    "contacts/files/Øystein Hjelm.md",
+    "contacts/contacts.base",
     "data/businesses/businesses.base",
     "data/businesses/NorDan AS/NorDan AS.md",
     "data/businesses/NorDan AS",
@@ -281,13 +299,10 @@
     "data/education",
     "contacts/Untitled.md",
     "contacts/files/John-Henrik Waage.md",
-    "contacts/files/Øystein Hjelm.md",
     "contacts/files/Silje Wahlund Lie.md",
     "contacts/files/Helge Tønnessen.md",
     "contacts/files/Tor Friestad.md",
-    "contacts/files/Tore F. Henriksen.md",
     "contacts/files/Kjetil Larsen.md",
-    "contacts/files/NavTor.md",
-    "calendar/journal/2026-02-09.md"
+    "contacts/files/NavTor.md"
   ]
 }
