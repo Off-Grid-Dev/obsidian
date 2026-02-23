@@ -9,6 +9,7 @@
     "contacted": "checkbox",
     "position": "multitext",
     "applied": "checkbox",
-    "kun søknad": "checkbox"
+    "kun søknad": "checkbox",
+    "lærebedrift": "checkbox"
   }
 }

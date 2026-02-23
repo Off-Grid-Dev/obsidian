@@ -14,6 +14,7 @@ views:
       - status
       - contacted
       - applied
+      - lærebedrift
     sort:
       - property: file.name
         direction: DESC

@@ -1,0 +1,6 @@
+---
+location:
+status:
+contacted:
+applied:
+---
