@@ -6,9 +6,9 @@
 			"text":"Businesses Reached (Goal = 15)\n```dataviewjs\nconst directory = '\"data/businesses\"';\nconst goal = 15;\nconst businessCount = dv.pages(directory).length;\n\nconst apbString = \"```apb\\n\" + \n                 `Total Businesses: ${businessCount}/${goal}\\n` + \n                 \"```\";\n\ndv.paragraph(apbString);\n```\n```dataviewjs\nconst directory = '\"data/businesses\"';\nconst goal = 15;\nconst businessCount = dv.pages(directory).length;\nconst contacted = dv.pages(directory).where(p => p.contacted);\n\nconst apbString = \"```apb\\n\" + \n                 `Businesses Contacted: ${contacted.length}/${businessCount}\\n` + \n                 \"```\";\n\ndv.paragraph(apbString);\n```\n```dataviewjs\nconst directory = '\"data/businesses\"';\nconst businessCount = dv.pages(directory).length;\nconst applied = dv.pages(directory).where(p => p.applied);\n\nconst apbString = \"```apb\\n\" + \n                 `Businesses Applied to: ${applied.length}/${businessCount}\\n` + \n                 \"```\";\n\ndv.paragraph(apbString);\n```",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-860,
-			"y":-240,
+			"y":-300,
 			"width":820,
-			"height":300
+			"height":340
 		},
 		{
 			"id":"1fb4ee1664603d80",
@@ -21,9 +21,9 @@
 			"x":0,
 			"y":-660,
 			"width":620,
-			"height":720
+			"height":700
 		},
-		{"id":"a5aa2455905f05cc","type":"file","file":"data/businesses/businesses.base","x":-860,"y":-660,"width":820,"height":400,"color":"5"}
+		{"id":"a5aa2455905f05cc","type":"file","file":"data/businesses/businesses.base","x":-860,"y":-660,"width":820,"height":320,"color":"5"}
 	],
 	"edges":[],
 	"metadata":{
