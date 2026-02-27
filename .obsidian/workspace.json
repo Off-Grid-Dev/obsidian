@@ -39,14 +39,14 @@
             "id": "f5aada8a415b1557",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "notater fra 19.02.md",
-                "mode": "source",
-                "source": false
+                "aFile": "+/Gamleveien oppussing.md",
+                "bFile": "+/Gamleveien oppussing.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "notater fra 19.02"
+              "icon": "diff",
+              "title": "Diff: Gamleveien oppussing  (Working Tree)"
             }
           },
           {
@@ -76,7 +76,7 @@
       {
         "id": "df68baa7a4f0102d",
         "type": "tabs",
-        "dimension": 57.07133917396746,
+        "dimension": 74.96871088861077,
         "children": [
           {
             "id": "b7af8af9beb4b8cc",
@@ -123,7 +123,7 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 42.92866082603254,
+        "dimension": 25.03128911138924,
         "children": [
           {
             "id": "1c77af18a2ad9113",
@@ -274,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "8cd136cc1e04a20c",
@@ -295,8 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5,
-    "collapsed": true
+    "width": 486.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,8 +311,9 @@
   },
   "active": "f5aada8a415b1557",
   "lastOpenFiles": [
-    "Februar 2026.md",
-    "notater fra 19.02.md",
+    "data/work/Sweet Madness/Februar 2026.md",
+    "+/brainstorm/notater fra 19.02.md",
+    "Dashboard.canvas",
     "data/businesses/businesses.base",
     "data/businesses/Untitled.md",
     "+/første utkast brev til bedrift.md",
@@ -322,7 +322,6 @@
     "data/work/Sweet Madness",
     "data/work",
     "data/work/Sweet Madness/Sweet Madness - uke 11.md",
-    "Dashboard.canvas",
     "data/education/OFEL/OFEL.md",
     "contacts/files/Tore F. Henriksen.md",
     "contacts/files/Øystein Hjelm.md",
