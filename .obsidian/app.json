@@ -5,5 +5,6 @@
   "useTab": false,
   "openBehavior": "file:Dashboard.canvas",
   "newFileLocation": "root",
-  "attachmentFolderPath": "+"
+  "attachmentFolderPath": "+",
+  "vimMode": false
 }

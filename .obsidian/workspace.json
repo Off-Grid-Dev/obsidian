@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+/Gamleveien oppussing.md",
+                "file": "+/brainstorm/notater fra 19.02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gamleveien oppussing"
+              "title": "notater fra 19.02"
+            }
+          },
+          {
+            "id": "7b0ba9346b2874aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/work/Sweet Madness/Februar 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Februar 2026"
+            }
+          },
+          {
+            "id": "3c971b310c9ef68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/work/Sweet Madness/Mars 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mars 2026"
+            }
+          },
+          {
+            "id": "97415d2fba44e596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contacts/files/Andreas Egeli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Andreas Egeli"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -33,7 +76,7 @@
       {
         "id": "df68baa7a4f0102d",
         "type": "tabs",
-        "dimension": 74.96871088861077,
+        "dimension": 52.44055068836045,
         "children": [
           {
             "id": "b7af8af9beb4b8cc",
@@ -80,7 +123,7 @@
       {
         "id": "8d51ce077cf637d5",
         "type": "tabs",
-        "dimension": 25.03128911138923,
+        "dimension": 47.559449311639554,
         "children": [
           {
             "id": "1c77af18a2ad9113",
@@ -99,14 +142,20 @@
             "id": "cf727498a8229782",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": -310,
+                  "zoom": -1.978887012846802
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +301,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 486.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,13 +316,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6313c476d2c5b1b3",
+  "active": "3c971b310c9ef68c",
   "lastOpenFiles": [
-    "Dashboard.canvas",
-    "data/work/Sweet Madness/Sweet Madness - uke 8.md",
-    "+/første utkast brev til bedrift.md",
     "data/work/Sweet Madness/Februar 2026.md",
+    "data/work/Sweet Madness/Mars 2026.md",
+    "Dashboard.canvas",
+    "+/Gamleveien oppussing.md",
+    "contacts/files/Andreas Egeli.md",
+    "karrieresenter fylkeskommune.md",
+    "HeddaTodo/HeddaTODO.md",
+    "contacts/contacts.base",
     "+/brainstorm/notater fra 19.02.md",
+    "HeddaTodo",
+    "Untitled",
+    "+/første utkast brev til bedrift.md",
+    "data/businesses/SES Elektro AS/SES Elektro AS.md",
+    "data/work/Sweet Madness/Sweet Madness - uke 8.md",
     "data/businesses/businesses.base",
     "data/businesses/Untitled.md",
     "data/work/Sweet Madness/punch clock",
@@ -282,27 +341,19 @@
     "data/education/OFEL/OFEL.md",
     "contacts/files/Tore F. Henriksen.md",
     "contacts/files/Øystein Hjelm.md",
-    "contacts/contacts.base",
     "data/businesses/NorDan AS/NorDan AS.md",
     "data/businesses/NorDan AS",
     "data/businesses/Moi Elektro AS/Moi Elektro AS.md",
     "data/businesses/Moi Elektro AS",
-    "data/businesses/SES Elektro AS/SES Elektro AS.md",
     "data/businesses/MG Elektro AS/MG Elektro AS.md",
     "data/businesses/SES Elektro AS",
     "Untitled 1.md",
-    "data/businesses/MG Elektro AS",
     "data/businesses/El-Eksperten/El-Eksperten AS.md",
-    "data/businesses/El-Eksperten",
     "data/businesses/Aker/Aker Solutions.md",
     "contacts/files/Ingebjørg Garborg.md",
     "calendar/weekly/week-07-2026.md",
     "week.md",
     "+/brainstorm/random_thoughts_monday.md",
-    "contacts/files/Helge Hovtun.md",
-    "data/education/rogfk/kurs.md",
-    "contacts/Untitled.md",
-    "contacts/files/John-Henrik Waage.md",
-    "contacts/files/Silje Wahlund Lie.md"
+    "contacts/files/Helge Hovtun.md"
   ]
 }
