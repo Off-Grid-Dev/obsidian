@@ -129,13 +129,17 @@
             "id": "1c77af18a2ad9113",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "contacts/contacts.base",
-                "viewName": "contact cards"
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -120,
+                  "y": -310,
+                  "zoom": -1.978887012846802
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "contacts"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dashboard"
             }
           },
           {
@@ -318,14 +322,14 @@
   },
   "active": "3c971b310c9ef68c",
   "lastOpenFiles": [
-    "data/work/Sweet Madness/Februar 2026.md",
-    "data/work/Sweet Madness/Mars 2026.md",
     "Dashboard.canvas",
+    "contacts/contacts.base",
+    "data/work/Sweet Madness/Mars 2026.md",
+    "data/work/Sweet Madness/Februar 2026.md",
     "+/Gamleveien oppussing.md",
     "contacts/files/Andreas Egeli.md",
     "karrieresenter fylkeskommune.md",
     "HeddaTodo/HeddaTODO.md",
-    "contacts/contacts.base",
     "+/brainstorm/notater fra 19.02.md",
     "HeddaTodo",
     "Untitled",
@@ -353,7 +357,6 @@
     "contacts/files/Ingebjørg Garborg.md",
     "calendar/weekly/week-07-2026.md",
     "week.md",
-    "+/brainstorm/random_thoughts_monday.md",
-    "contacts/files/Helge Hovtun.md"
+    "+/brainstorm/random_thoughts_monday.md"
   ]
 }
