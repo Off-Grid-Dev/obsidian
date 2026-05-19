@@ -1,0 +1,5 @@
+- [ ] bluetooth scanning app
+- [x] good ui starting point
+- [ ] app, bluetooth transmitter
+- [ ] decode information
+- [ ] 

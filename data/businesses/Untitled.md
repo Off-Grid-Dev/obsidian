@@ -1,6 +1,0 @@
----
-location:
-status:
-contacted:
-applied:
----

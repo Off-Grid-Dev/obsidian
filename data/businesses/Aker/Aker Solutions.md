@@ -15,7 +15,7 @@ status:
   - dead
 website: https://akersolutions.com
 short description: Aker Solutions er et internasjonalt industriselskap som utvikler løsninger og tjenester for energisektoren, inkludert lavkarbon-prosjekter og tradisjonelle energi-installasjoner.👌
-contacted: false
-applied: false
+contacted: true
+applied: true
 ---
 ![[contacts.base]]

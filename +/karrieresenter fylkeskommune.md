@@ -9,4 +9,4 @@
     - mindre bedrifter
     - NAV stiller med opplæringsplass / praksisplass
     - 12 mnd praksis 80% minst kun vg2 vg3
-    - realkompentanse (trenger ikke bevise)
+    - realkompentanse (får ikke bevis)

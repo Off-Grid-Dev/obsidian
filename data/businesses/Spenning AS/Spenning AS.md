@@ -1,12 +1,14 @@
 ---
 location: Egersund
 industry: elektro
-status: research
+status:
+  - research
+  - contact
 education: fagbrev
 website: https://spenning.as
 short description: Spenning AS er en lokal elektroentreprenør som tilbyr elektriker- og installasjonstjenester for både privatpersoner og næringsliv. De har erfaring siden 2006 og dekker alt fra mindre serviceoppdrag til større installasjonsprosjekter.
-contacted: false
-applied: false
+contacted: true
+applied: true
 ---
 ![[contacts.base]]
 

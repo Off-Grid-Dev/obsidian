@@ -19,11 +19,11 @@
 				"textAlign":"center"
 			},
 			"x":0,
-			"y":-660,
+			"y":-740,
 			"width":620,
-			"height":700
+			"height":780
 		},
-		{"id":"a5aa2455905f05cc","type":"file","file":"data/businesses/businesses.base","x":-860,"y":-660,"width":820,"height":320,"color":"5"}
+		{"id":"a5aa2455905f05cc","type":"file","file":"data/businesses/businesses.base","x":-860,"y":-740,"width":820,"height":400,"color":"5"}
 	],
 	"edges":[],
 	"metadata":{
